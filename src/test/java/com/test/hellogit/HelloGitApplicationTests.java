@@ -10,6 +10,7 @@ class HelloGitApplicationTests {
     void contextLoads() {
         //测试push
         //主分支push测试
+        //主分支push2测试
     }
 
 }
