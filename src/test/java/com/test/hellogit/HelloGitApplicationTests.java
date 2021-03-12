@@ -11,6 +11,7 @@ class HelloGitApplicationTests {
         //测试push
         //创建shengju分支
         //push省局代码到shengju分支
+        //push省局代码2到shengju分支
     }
 
 }
