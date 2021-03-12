@@ -9,6 +9,8 @@ class HelloGitApplicationTests {
     @Test
     void contextLoads() {
         //测试push
+        //创建shengju分支
+        //push省局代码到shengju分支
     }
 
 }
